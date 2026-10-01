@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/schemabot/commit/c48f53a70e207b527d383e8e08709db858246e5e",
       "git:hexsha": "c48f53a70e207b527d383e8e08709db858246e5e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
