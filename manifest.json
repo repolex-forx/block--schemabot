@@ -3103,7 +3103,9 @@
           "githubUrl": "https://github.com/kubernetes-sigs/yaml",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/c48f53a70e207b527d383e8e08709db858246e5e/chunk-001.nq.gz",
+      "dep": "dep/c48f53a70e207b527d383e8e08709db858246e5e.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
